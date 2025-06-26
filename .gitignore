@@ -14,3 +14,6 @@ access.log
 
 # Игнорировать все .txt файлы в каталоге doc/ на всех уровнях вложенности
 doc/**/*.txt
+
+#Ignore file
+INFO.md
